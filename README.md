@@ -58,7 +58,10 @@ server_socket.close()
 ```
 
 ## OUTPUT
+
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c1ec90b9-c0ee-4a59-bab6-b8aa0cf03c89" />
+
+
 
 ## RESULT
 
